@@ -1,5 +1,13 @@
 # Demo
 
+## Projects
+- [Time Machine](#1-time-machine)
+- [Snack Game](#2-snack-game)
+- [Employee-Directory](#3-employee-directory)
+- [Store Explorer](#4-store-explorer)
+- [Practice - Swipe Behavior](#5-practice---swipe-behavior)
+- [Others](#others)
+
 ## 1. Time Machine
 The user can upload a photo from their album and app will return a series of photos of the user in different ages.<br>
 
@@ -38,7 +46,7 @@ https://user-images.githubusercontent.com/17349191/204443705-7bd5f479-ead6-47c5-
 <br>
 <br>
 
-## 5. Practice - Swipe Behavior 
+## 5. Practice - Swipe Behavior
 Implement swipe behavior in UIScrollView.
 
 **Skills**: `# Swift` `# 3D Transform`
