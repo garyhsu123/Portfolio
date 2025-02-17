@@ -12,7 +12,9 @@
 ## 1. CELPIP Timer
 The app I started from scratch and published on [App Store](https://apps.apple.com/ca/app/celpip-timer/id6740115229).<br>
 
-  **Skills**: `# Figma` `# SwiftUI` `# Swift` `# SnapKit` `# AVFAudio` `# Fastlane` `# App Store`
+  **Skills**: `# Figma` `# MVVM` `# SwiftUI` `# Swift` `# SnapKit` `# AVFAudio` `# Fastlane` `# App Store`
+
+![Screenshot](https://github.com/user-attachments/assets/345e7262-a3aa-408c-b559-3ff23f57bd68)
 
 <br>
 <be>
