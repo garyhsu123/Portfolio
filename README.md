@@ -70,4 +70,4 @@ https://user-images.githubusercontent.com/17349191/202095039-592606d3-ca49-4715-
 <br>
 
 ## Others
-[My Resume](https://www.cakeresume.com/me/garyhsu123/portfolios)
+[My Resume](https://www.figma.com/proto/MKXt2j8sGtzU4htNMKsb9c/Public-Resume?node-id=5-12&p=f&t=WL5aOmyTHy0gBF4l-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A12)
