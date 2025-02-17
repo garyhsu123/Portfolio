@@ -12,9 +12,11 @@
 ## 1. CELPIP Timer
 The app I started from scratch and published on [App Store](https://apps.apple.com/ca/app/celpip-timer/id6740115229).<br>
 
+  **Description**: This app is designed to streamline and enhance the CELPIP Speaking practice for test-takers.
+  
   **Skills**: `# Figma` `# MVVM` `# SwiftUI` `# Swift` `# SnapKit` `# AVFAudio` `# Fastlane` `# App Store`
 
-![Screenshot](https://github.com/user-attachments/assets/345e7262-a3aa-408c-b559-3ff23f57bd68)
+<img src="https://github.com/user-attachments/assets/345e7262-a3aa-408c-b559-3ff23f57bd68" alt="drawing" width="300"/>
 
 <br>
 <be>
