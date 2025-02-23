@@ -70,4 +70,17 @@ https://user-images.githubusercontent.com/17349191/202095039-592606d3-ca49-4715-
 <br>
 
 ## Others
-[My Resume](https://www.figma.com/proto/MKXt2j8sGtzU4htNMKsb9c/Public-Resume?node-id=5-12&p=f&t=WL5aOmyTHy0gBF4l-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A12)
+
+* Implement the “Crowd Simulation”
+Simulating crowd movement and integrating it into a 3D game enhances the realism of the game scene.
+[Demo](https://youtu.be/t2aL8AKJbec?si=YxBPBgISvYOCqAPb)
+
+* Implement Virtual Whiteboard in VR Demo
+Develop a virtual whiteboard for teaching purposes in Virtual Reality.
+[Demo](https://youtu.be/rzwoSUvpTUY?si=SxlGGfwirWRI0-VL)
+
+* Implement 3D FPS Game Demo
+[Demo](https://youtu.be/PKyRy5AWPKc?si=Mgc7F_5XmqdhBo46)
+
+* Thesis paper: “Effects of Interacting with a Crowd of Emotional Virtual Humans on Users’ Affective and Non-Verbal Behaviors”
+[Demo](https://youtu.be/ChyHmQmtHi8?si=y-wSxcfHQBNKvYMv)
