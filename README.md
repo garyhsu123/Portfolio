@@ -3,7 +3,7 @@
 ## Projects
 - [CELPIP Timer](#1-celpip-timer)
 - [Time Machine](#2-time-machine)
-- [Snack Game](#3-snack-game)
+- [Snake Game](#3-snake-game)
 - [Employee-Directory](#4-employee-directory)
 - [Store Explorer](#5-store-explorer)
 - [Practice - Swipe Behavior](#6-practice---swipe-behavior)
@@ -31,8 +31,8 @@ https://user-images.githubusercontent.com/17349191/204445680-0d8a4a45-99d7-4b27-
 <br>
 <br>
 
-## 3. Snack Game
-Implement [Snack](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game in Swift. Get wireframe in [Figma](https://www.figma.com/file/7e9DoznfxOaWF6v3wgppah/Snake-Game?node-id=0%3A1&t=JPYyliBkOMv9jGSG-1).<br>
+## 3. Snake Game
+Implement [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game in Swift. Get wireframe in [Figma](https://www.figma.com/file/7e9DoznfxOaWF6v3wgppah/Snake-Game?node-id=0%3A1&t=JPYyliBkOMv9jGSG-1).<br>
 
 **Skills**: `# Swift` `# Grid System` `# MVVM` `# 3D Transform` `# UI/UX Design` 
 
